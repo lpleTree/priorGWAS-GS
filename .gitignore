@@ -1,0 +1,13 @@
+﻿# Temporary Office files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Manuscript and response files (not code/data)
+manuscript-*.docx
+Response_to_Reviewers-*.docx
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
